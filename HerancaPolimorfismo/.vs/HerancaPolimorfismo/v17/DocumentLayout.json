@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88DCE07-DB0C-448F-A3E5-7083DE868DB0}|HerancaPolimorfismo\\HerancaPolimorfismo.csproj|c:\\users\\wanessa.sousa\\documents\\c-sharp\\herancapolimorfismo\\herancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88DCE07-DB0C-448F-A3E5-7083DE868DB0}|HerancaPolimorfismo\\HerancaPolimorfismo.csproj|solutionrelative:herancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88DCE07-DB0C-448F-A3E5-7083DE868DB0}|HerancaPolimorfismo\\HerancaPolimorfismo.csproj|c:\\users\\wanessa.sousa\\documents\\c-sharp\\herancapolimorfismo\\herancapolimorfismo\\entities\\outsourceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88DCE07-DB0C-448F-A3E5-7083DE868DB0}|HerancaPolimorfismo\\HerancaPolimorfismo.csproj|solutionrelative:herancapolimorfismo\\entities\\outsourceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88DCE07-DB0C-448F-A3E5-7083DE868DB0}|HerancaPolimorfismo\\HerancaPolimorfismo.csproj|c:\\users\\wanessa.sousa\\documents\\c-sharp\\herancapolimorfismo\\herancapolimorfismo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88DCE07-DB0C-448F-A3E5-7083DE868DB0}|HerancaPolimorfismo\\HerancaPolimorfismo.csproj|solutionrelative:herancapolimorfismo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourceEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\HerancaPolimorfismo\\Entities\\OutsourceEmployee.cs",
+              "RelativeDocumentMoniker": "HerancaPolimorfismo\\Entities\\OutsourceEmployee.cs",
+              "ToolTip": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\HerancaPolimorfismo\\Entities\\OutsourceEmployee.cs",
+              "RelativeToolTip": "HerancaPolimorfismo\\Entities\\OutsourceEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:02:33.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\HerancaPolimorfismo\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HerancaPolimorfismo\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\HerancaPolimorfismo\\Entities\\Employee.cs",
+              "RelativeToolTip": "HerancaPolimorfismo\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:57:47.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\HerancaPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\wanessa.sousa\\Documents\\c-sharp\\HerancaPolimorfismo\\HerancaPolimorfismo\\Program.cs",
+              "RelativeToolTip": "HerancaPolimorfismo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:55:01.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
