@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\bin\Debug\net8.0\FixacaoEnumComposicao.exe
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\bin\Debug\net8.0\FixacaoEnumComposicao.deps.json
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\bin\Debug\net8.0\FixacaoEnumComposicao.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\bin\Debug\net8.0\FixacaoEnumComposicao.dll
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\bin\Debug\net8.0\FixacaoEnumComposicao.pdb
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.dll
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\refint\FixacaoEnumComposicao.dll
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.pdb
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\FixacaoEnumComposicao.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\FixacaoEnumComposicao\FixacaoEnumComposicao\obj\Debug\net8.0\ref\FixacaoEnumComposicao.dll

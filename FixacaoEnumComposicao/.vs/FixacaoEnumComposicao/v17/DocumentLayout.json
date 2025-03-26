@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\FixacaoEnumComposicao.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\fixacaoenumcomposicao\\fixacaoenumcomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\FixacaoEnumComposicao.csproj|solutionrelative:fixacaoenumcomposicao\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\FixacaoEnumComposicao.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\fixacaoenumcomposicao\\fixacaoenumcomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\FixacaoEnumComposicao.csproj|solutionrelative:fixacaoenumcomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\Fixacao.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\fixacaoenumcomposicao\\fixacaoenumcomposicao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\Fixacao.csproj|solutionrelative:fixacaoenumcomposicao\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\FixacaoEnumComposicao.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\fixacaoenumcomposicao\\fixacaoenumcomposicao\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\FixacaoEnumComposicao.csproj|solutionrelative:fixacaoenumcomposicao\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\Fixacao.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\fixacaoenumcomposicao\\fixacaoenumcomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF09218A-CF1C-436E-B1D1-B30CBAE6BED8}|FixacaoEnumComposicao\\Fixacao.csproj|solutionrelative:fixacaoenumcomposicao\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "FixacaoEnumComposicao\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\Product.cs",
+              "RelativeToolTip": "FixacaoEnumComposicao\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:01:56.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "FixacaoEnumComposicao\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\Client.cs",
+              "RelativeToolTip": "FixacaoEnumComposicao\\Entities\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:59:04.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FixacaoEnumComposicao\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "FixacaoEnumComposicao\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:55:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "FixacaoEnumComposicao\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Entities\\Order.cs",
+              "RelativeToolTip": "FixacaoEnumComposicao\\Entities\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:50:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "FixacaoEnumComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\FixacaoEnumComposicao\\FixacaoEnumComposicao\\Program.cs",
+              "RelativeToolTip": "FixacaoEnumComposicao\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:44:42.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

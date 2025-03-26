@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617E32A3-7D20-44F8-8C62-14CE1B23A8A5}|StringBuilder\\StringBuilder.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\stringbuilder\\stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617E32A3-7D20-44F8-8C62-14CE1B23A8A5}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617E32A3-7D20-44F8-8C62-14CE1B23A8A5}|StringBuilder\\StringBuilder.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\stringbuilder\\stringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617E32A3-7D20-44F8-8C62-14CE1B23A8A5}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617E32A3-7D20-44F8-8C62-14CE1B23A8A5}|StringBuilder\\StringBuilder.csproj|c:\\users\\thayl\\onedrive\\documentos\\cursocsharp\\stringbuilder\\stringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{617E32A3-7D20-44F8-8C62-14CE1B23A8A5}|StringBuilder\\StringBuilder.csproj|solutionrelative:stringbuilder\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\StringBuilder\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\StringBuilder\\Entities\\Post.cs",
+              "RelativeToolTip": "StringBuilder\\Entities\\Post.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvwoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:02:43.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\StringBuilder\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\StringBuilder\\Entities\\Comment.cs",
+              "RelativeToolTip": "StringBuilder\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:00:30.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\thayl\\OneDrive\\Documentos\\CursoCSharp\\StringBuilder\\StringBuilder\\Program.cs*",
+              "RelativeToolTip": "StringBuilder\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:57:33.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

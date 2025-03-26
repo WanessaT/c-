@@ -1,0 +1,15 @@
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.sourcelink.json
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuild.exe
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuild.deps.json
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuild.runtimeconfig.json
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuild.dll
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuild.pdb
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.dll
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBuild.dll
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.pdb
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuild.genruntimeconfig.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBuild.dll

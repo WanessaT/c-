@@ -1,0 +1,5 @@
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\thayl\OneDrive\Documentos\CursoCSharp\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
