@@ -1,0 +1,15 @@
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\bin\Debug\net8.0\FixaMetodAbstract.exe
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\bin\Debug\net8.0\FixaMetodAbstract.deps.json
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\bin\Debug\net8.0\FixaMetodAbstract.runtimeconfig.json
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\bin\Debug\net8.0\FixaMetodAbstract.dll
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\bin\Debug\net8.0\FixaMetodAbstract.pdb
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.AssemblyInfoInputs.cache
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.AssemblyInfo.cs
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.csproj.CoreCompileInputs.cache
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.sourcelink.json
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.dll
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\refint\FixaMetodAbstract.dll
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.pdb
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\FixaMetodAbstract.genruntimeconfig.cache
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaMetodAbstract\FixaMetodAbstract\obj\Debug\net8.0\ref\FixaMetodAbstract.dll

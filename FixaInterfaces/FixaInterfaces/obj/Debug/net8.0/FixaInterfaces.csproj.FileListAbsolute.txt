@@ -1,0 +1,15 @@
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\bin\Debug\net8.0\FixaInterfaces.exe
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\bin\Debug\net8.0\FixaInterfaces.deps.json
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\bin\Debug\net8.0\FixaInterfaces.runtimeconfig.json
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\bin\Debug\net8.0\FixaInterfaces.dll
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\bin\Debug\net8.0\FixaInterfaces.pdb
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.AssemblyInfoInputs.cache
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.AssemblyInfo.cs
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.sourcelink.json
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.dll
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\refint\FixaInterfaces.dll
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.pdb
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\FixaInterfaces.genruntimeconfig.cache
+C:\Users\wanessa.sousa\Documents\c-sharp\FixaInterfaces\FixaInterfaces\obj\Debug\net8.0\ref\FixaInterfaces.dll
