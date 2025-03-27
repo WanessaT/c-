@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetodosAbstratos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f300ff40072d4b28244a8d582da7d393d32db40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9af6c67aa3ff1f8f9c05dc32565d24e7cfd1d28")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetodosAbstratos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetodosAbstratos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
