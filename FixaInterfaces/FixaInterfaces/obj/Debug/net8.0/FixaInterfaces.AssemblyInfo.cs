@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixaInterfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9c684f766c471a5ed4aeb633f878e84dd627624")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0e07e20082f8117467277e1c3970c01f07c6e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixaInterfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixaInterfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
